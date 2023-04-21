@@ -10,25 +10,35 @@
 </head>
 <body>
 <div class="container-lg mt-5">
-    <h1 class="mb-4">Registro de usuario</h1>
+    <h1 class="mb-4">User register</h1>
     <form method="POST" action="registroUsuario.php">
         <div class="mb-3">
-            <label for="nombres" class="form-label">Nombres:</label>
-            <input type="text" name="nombres" id="nombres" class="form-control" required>
+            <label for="nombres" class="form-label">Name:</label>
+            <input type="text" name="nombres" id="nombres" class="form-control" required
+                   placeholder="Enter your name" autofocus
+                   pattern="[A-Za-z]{2,40}">
+
         </div>
         <div class="mb-3">
-            <label for="apellidos" class="form-label">Apellidos:</label>
-            <input type="text" name="apellidos" id="apellidos" class="form-control" required>
+            <label for="apellidos" class="form-label">Last name:</label>
+            <input type="text" name="apellidos" id="apellidos" class="form-control"
+            placeholder="Enter your last name" required autofocus
+            pattern="[A-Za-z]{2,40}">
+
         </div>
         <div class="mb-3">
-            <label for="correo" class="form-label">Correo:</label>
-            <input type="email" name="correo" id="correo" class="form-control" required>
+            <label for="correo" class="form-label">Gmail:</label>
+            <input type="email" name="correo" id="correo" class="form-control" required
+                   placeholder=" Enter your email " required autofocus
+                   pattern="{,40">
         </div>
         <div class="mb-3">
-            <label for="password" class="form-label">Contraseña:</label>
-            <input type="password" name="password" id="password" class="form-control" required>
-        </div>
-        <button type="submit" class="btn btn-primary">Enviar</button>
+            <label for="password" class="form-label">Password:</label>
+            <input type="password" name="password" id="password" class="form-control" required
+                   placeholder=" Enter your Password " required autofocus
+                   pattern="">
+        </div><button type="submit" class="btn btn-primary">Enviar</button>
+
     </form>
 </div>
 <!-- JS de Bootstrap 5 (requiere jQuery) -->
