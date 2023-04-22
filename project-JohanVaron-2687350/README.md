@@ -1,6 +1,6 @@
 Taller Formularios en HTML Y BOOTSTRAP 5
 
-Para crear mi formulario con HTML y Bootstrap 5, primero abrí mi editor de texto y creé un nuevo archivo HTML. Luego, estructuré la página utilizando las etiquetas necesarias, como <!DOCTYPE html>, <html>, <head> y <body>.
+Para crear mi formulario con HTML y Bootstrap 5, primero abrí mi editor de texto y creé un nuevo archivo HTML. Luego, estructuré la página utilizando las etiquetas necesarias, como DOCTYPE html, html, head y body.
 
 A continuación, añadí un formulario utilizando la etiqueta <form> y dentro de ésta, agregué los campos necesarios para que los usuarios completen su información, utilizando etiquetas como <label> y <input>. Los campos incluyeron el nombre de usuario, apellido, correo electrónico, contraseña, entre otros.
 
