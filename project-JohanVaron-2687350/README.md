@@ -1,6 +1,6 @@
 Taller Formularios en HTML Y BOOTSTRAP 5
 
-paso de cómo logré hacer mi de formularios con hatml y BOOTSTRAP 5
+paso de cómo logré hacer mi de formularios con hatml y BOOTSTRAP 5.
 
 Primero, abrí mi editor de texto y creé un nuevo archivo HTML. Luego, agregué las etiquetas necesarias para estructurar mi página, como <!DOCTYPE html>, <html>, <head> y <body>.
 
