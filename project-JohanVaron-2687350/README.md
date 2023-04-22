@@ -1,16 +1,7 @@
-Taller formulario HYML
+Primero, abrí mi editor de texto y creé un nuevo archivo HTML. Luego, agregué las etiquetas necesarias para estructurar mi página, como <!DOCTYPE html>, <html>, <head> y <body>.
 
+Después, agregué un formulario utilizando la etiqueta <form>. Dentro del formulario, agregué los campos que quería que los usuarios completaran utilizando etiquetas como <label> y <input>. En este caso, agregué campos para el nombre de usuario, correo electrónico, contraseña y confirmación de contraseña.
 
-En este documeto explicare un paso a paso resumido de como logre hacer un formulario en html y bootstrap 5
+Luego, agregué un botón para enviar el formulario utilizando la etiqueta <input> con el atributo type="submit". Este botón permite a los usuarios enviar el formulario una vez que hayan completado todos los campos requeridos.
 
-pasos:
-
-En primer lugar, abrí mi editor creé un nuevo archivo HTML. Agregué las etiquetas necesarias para crear la estructura básica de la página, como <!DOCTYPE html>, <html>, <head> y <body>.
-
-A continuación, agregué un formulario utilizando la etiqueta <form>. Dentro de esta etiqueta, agregué los campos del formulario que deseaba que los usuarios completen utilizando etiquetas como <label> y <input>. Incluí un campo para el nombre de usuario utilizando la etiqueta <input> con el atributo type="text", un campo para la contraseña utilizando la etiqueta <input> con el atributo type="password", un campo para el correo electrónico utilizando la etiqueta <input> con el atributo type="email" y otro campo para la confirmación de la contraseña utilizando la etiqueta <input> con el atributo type="password".
-
-Luego, agregué un botón para enviar el formulario utilizando la etiqueta <input> con el atributo type="submit". Este botón le permite a los usuarios enviar el formulario una vez que hayan completado todos los campos requeridos.
-
-Finalmente, para personalizar el diseño y los estilos del formulario, utilicé CSS y otras herramientas. Esto me permitió hacer que el formulario se vea atractivo y fácil de usar para los usuarios.
-
-En resumen, siguiendo estos pasos pude crear fácilmente un formulario en HTML con campos para nombre de usuario, correo electrónico y contraseña. Espero que esta explicación te haya sido útil.
+En resumen, siguiendo estos pasos pude crear un formulario en HTML con campos para nombre de usuario, correo electrónico, contraseña y confirmación de contraseña. Espero que esta explicación te haya sido útil y que puedas crear tus propios formularios en HTML de manera fácil y efectiva.
